@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**lunabooth/lunabooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **lunabooth**, a javascript writer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner
+- 🎯 Goal: ship something useful every week
+- 🌱 Always learning new things
+- 📫 Reach me through GitHub
+- 🚀 Performance matters
+
+## Tech
+
+`Elixir` `Haskell` `Bun`
+
+---
+
+_Spaces over tabs._
